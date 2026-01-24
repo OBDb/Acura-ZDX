@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Acura_ZDX"
+
 generations:
   - name: "First Generation"
     start_year: 2010
@@ -6,5 +9,5 @@ generations:
 
   - name: "Second Generation (Electric)"
     start_year: 2024
-    end_year: 2025
+    end_year: 2024
     description: "The second-generation Acura ZDX marked the brand's entry into the electric vehicle market, representing a complete reimagining of the nameplate as Acura's first fully electric SUV after an 11-year hiatus from the ZDX name. Co-developed with General Motors and built on GM's Ultium platform at the Spring Hill, Tennessee assembly plant alongside the Cadillac Lyriq, the electric ZDX featured a more conventional SUV silhouette while maintaining distinctive Acura design language including the signature Diamond Pentagon grille and jewel-eye LED headlights. Available in three configurations including the base A-Spec with a single 358-horsepower rear-mounted motor providing 313 miles of EPA range, a dual-motor all-wheel-drive variant producing 490 horsepower with 304 miles of range, and the high-performance Type S delivering 499 horsepower and 544 lb-ft of torque with 278 miles of range and 0-60 mph acceleration in 4.3 seconds. All models utilized GM's 102 kWh Ultium lithium-ion battery pack with DC fast charging capabilities up to 190kW, allowing the single-motor model to add 81 miles of range in just 10 minutes of charging. The interior featured Acura's latest technology including a 11.3-inch touchscreen infotainment system, 11-inch head-up display, and Bang & Olufsen premium audio system, while the Type S variant included sport seats, unique styling elements, and performance-tuned suspension. Despite advanced technology, competitive range figures, and strong performance credentials, the second-generation ZDX faced significant sales challenges in the rapidly evolving EV market, leading Acura to announce its discontinuation in September 2025 after less than two years of production. The brief production run from March 2024 to September 2025 made the electric ZDX one of the shortest-lived vehicle programs in modern automotive history, though it served as an important stepping stone for Acura's electrification strategy before the brand's planned transition to the RSX electric vehicle in 2026."
