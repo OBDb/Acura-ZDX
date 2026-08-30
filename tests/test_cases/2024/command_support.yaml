@@ -86,6 +86,7 @@ unsupported_commands_by_ecu:
   - DB33.0104:LOAD_PCT
   - DB33.0105:ECT
   - DB33.0110:MAF
+  - DB33.012F:FLI
   - DB33.0144:EQ_RAT
   - DB33.222615
   - DB33.223083
